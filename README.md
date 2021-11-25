@@ -47,4 +47,5 @@ Election Audit Summary
   The framework of this election analysis is quite versatile, as with a few changes made to the data, this can be used for other elections too. For example, by altering the “election_results.csv” file and our txt file used with another set of election data; we can easily generate results for other counties and candidates. Also, when obtaining the county and candidate name from each row, if there are other variables, we can alter the position the variable is at in that row. 
   
   For example: 
+  
 ![image](https://user-images.githubusercontent.com/93355719/143371244-18360ecb-3242-4808-880a-605c61d069cb.png)
